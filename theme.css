@@ -1,5 +1,5 @@
 h1 {color:blue; text-align:center;}
 button {height:50px; width:100px;}
-img {size:100px, 100px;}
+img {widht:100px; height:100px;}
 #sun {display:inline; position:absolute; left:0px; top:0px;}
 #icon {display:inline; position:absolute; right:0px; top:0px;}
